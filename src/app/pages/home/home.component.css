@@ -1,0 +1,28 @@
+/* .h1{
+    color: red;
+} */
+.todo{
+    background-color: yellow;
+    height: 100%;
+}
+.box{
+    width: 50%;
+    height: 450px;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    overflow: scroll;
+}
+
+i{
+    cursor:pointer;
+}
+ 
+
+
+ .inputAdd{
+    border-radius: 5px;
+    background-color: rgb(253, 252, 251);
+    width: 50vh;
+    
+}
